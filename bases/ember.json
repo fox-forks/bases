@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Ember",
-  "docs": "https://docs.ember-cli-typescript.com",
   "_version": "3.0.0",
+  "docs": "https://docs.ember-cli-typescript.com",
 
   // This is the base config used by Ember apps and addons. When actually used
   // via Ember CLI (e.g. ember-cli-typescript's blueprint), it additionally has

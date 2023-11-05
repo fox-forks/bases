@@ -2,6 +2,7 @@
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Taro",
   "compileOnSave": false,
+
   "compilerOptions": {
     "target": "es2017",
     "module": "commonjs",
